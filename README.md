@@ -19,3 +19,5 @@ lien of 'Letter of Recommendation (LOR)' : https://mail-attachment.googleusercon
 Python Programming internship
 https://drive.google.com/file/d/1bQHcKKUndNm6OJ1fsX5u9ghybDlVGOY3/view
 ![Faouzi Toujani CodSoft Certaficate Programming Python](https://github.com/user-attachments/assets/fa40d6c9-a49b-492e-97d7-64a652e6177e)
+https://drive.google.com/file/d/1ZUJ39t3T4Q0rfmktsZGJo1PU2KL4IKJl/view
+![Faouzi Toujani CodSoft Certaficate Data Science](https://github.com/user-attachments/assets/6f4048d3-03ff-43ba-92b9-7f164d90c6f6)
