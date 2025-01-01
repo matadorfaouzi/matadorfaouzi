@@ -25,5 +25,14 @@ https://drive.google.com/file/d/1bQHcKKUndNm6OJ1fsX5u9ghybDlVGOY3/view
 Data Science internship with @CodSoft
 https://drive.google.com/file/d/1ZUJ39t3T4Q0rfmktsZGJo1PU2KL4IKJl/view
 ![Faouzi Toujani CodSoft Certaficate Data Science](https://github.com/user-attachments/assets/6f4048d3-03ff-43ba-92b9-7f164d90c6f6)
+Machine Learning in Python wiyh @Simplilearn 
+https://simpli-web.app.link/e/IJpl7pdCNPb
+![Certificate ML with Python TF](https://github.com/user-attachments/assets/a258d7b1-6d60-4621-bbae-e99eb6e3b257)
+Machine Learning in Python wiyh @Simplilearn
+Python Libraries for Data Science wiyh @Simplilearn 
+https://simpli-web.app.link/e/KsKzwz4CNPb
+![Certhif Python Libraries for Data Science](https://github.com/user-attachments/assets/83583969-b83a-4206-ab71-16137a9c9bfd)
+
+
 
 
