@@ -11,6 +11,9 @@
 matadorfaouzi/matadorfaouzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Data Scientist Bootcamp with GomyCode
+https://diploma.gomycode.app/?id=31737451600218954
+![Faouzi Toujani-Data Scientist Bootcamp_ Certificate of Completion](https://github.com/user-attachments/assets/18e21696-abc9-4538-9263-9c5bce905d99)
 SQL with 365datascience
 https://learn.365datascience.com/c/c895a65555/
 ![CC-F9AE9695F4](https://github.com/user-attachments/assets/79c93aae-0cbf-4e2b-9fa9-9be84d64e54e)
