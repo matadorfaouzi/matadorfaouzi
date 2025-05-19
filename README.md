@@ -14,6 +14,18 @@ You can click the Preview link to take a look at your changes.
 Data Scientist Bootcamp with GomyCode
 https://diploma.gomycode.app/?id=31737451600218954
 ![Faouzi Toujani-Data Scientist Bootcamp_ Certificate of Completion](https://github.com/user-attachments/assets/18e21696-abc9-4538-9263-9c5bce905d99)
+Introduction to SQL with DataCamp
+https://www.datacamp.com/statement-of-accomplishment/course/e9ee5e43e8310c3eea807ba854848ad4d07d9959?raw=1
+![certificate Introduction to SQL](https://github.com/user-attachments/assets/5d708511-ddba-45c6-a3f9-8693727524d9)
+Intermediate SQL with DataCamp
+https://www.datacamp.com/statement-of-accomplishment/course/bb3fa1119f2e4002c1133871c66e2ea5739de122?raw=1
+![certificate Intermediate SQL](https://github.com/user-attachments/assets/1c331909-2803-4c09-b08d-a3084bb4024f)
+Introduction to SQL Server with DataCamp
+https://www.datacamp.com/statement-of-accomplishment/course/44e89ff1a25ebed6eff22e4d832e384446ca7cb2?raw=1
+![certificate Introduction SQL SERVER](https://github.com/user-attachments/assets/c7f93d04-5461-4cf4-ab96-cd9ef20e3439)
+Intermediate SQL Server with DataCamp
+https://www.datacamp.com/statement-of-accomplishment/course/4be0c41a9d678a407d1cdef3daedb445aef944e2?raw=1
+![certificate Intermediate SQL SERVER](https://github.com/user-attachments/assets/322d240a-889c-4b0c-a89b-f98ea470b6f9)
 SQL with 365datascience
 https://learn.365datascience.com/c/c895a65555/
 ![CC-F9AE9695F4](https://github.com/user-attachments/assets/79c93aae-0cbf-4e2b-9fa9-9be84d64e54e)
