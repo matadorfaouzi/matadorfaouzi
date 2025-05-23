@@ -26,6 +26,9 @@ https://www.datacamp.com/statement-of-accomplishment/course/44e89ff1a25ebed6eff2
 Intermediate SQL Server with DataCamp
 https://www.datacamp.com/statement-of-accomplishment/course/4be0c41a9d678a407d1cdef3daedb445aef944e2?raw=1
 ![certificate Intermediate SQL SERVER](https://github.com/user-attachments/assets/322d240a-889c-4b0c-a89b-f98ea470b6f9)
+Introduction to Oracle SQL with DataCamp
+https://www.datacamp.com/statement-of-accomplishment/course/776d39e89cf8f23f7b9db58608c26b1efa297d46?raw=1
+![certificate Introduction to Oracle SQL](https://github.com/user-attachments/assets/c4fde3ec-1be4-4bee-84b9-8f525a4286f9)
 SQL with 365datascience
 https://learn.365datascience.com/c/c895a65555/
 ![CC-F9AE9695F4](https://github.com/user-attachments/assets/79c93aae-0cbf-4e2b-9fa9-9be84d64e54e)
