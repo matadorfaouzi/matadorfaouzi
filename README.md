@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 Data Scientist Bootcamp with GomyCode
 https://diploma.gomycode.app/?id=31737451600218954
 ![Faouzi Toujani-Data Scientist Bootcamp_ Certificate of Completion](https://github.com/user-attachments/assets/18e21696-abc9-4538-9263-9c5bce905d99)
+Introduction to SQL with simplilearn
+https://simpli-web.app.link/e/Rc5LeHKnwUb
+![Simplilearn Certaficate Introduction SQL](https://github.com/user-attachments/assets/a5d4ada2-1326-439e-863b-92bcfcf8e6fb)
 Introduction to SQL with DataCamp
 https://www.datacamp.com/statement-of-accomplishment/course/e9ee5e43e8310c3eea807ba854848ad4d07d9959?raw=1
 ![certificate Introduction to SQL](https://github.com/user-attachments/assets/5d708511-ddba-45c6-a3f9-8693727524d9)
