@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 Data Scientist Bootcamp with GomyCode
 https://diploma.gomycode.app/?id=31737451600218954
 ![Faouzi Toujani-Data Scientist Bootcamp_ Certificate of Completion](https://github.com/user-attachments/assets/18e21696-abc9-4538-9263-9c5bce905d99)
+Key Leadership Skills to Set Data Analytics Professionals Apart
+https://certifications.thedataanalytics.academy/c/626d2a9d3dc749839a617ca7ec6a5401
+[certaficate analytique.pdf](https://github.com/user-attachments/files/20942139/certaficate.analytique.pdf)
 Introduction to SQL with simplilearn
 https://simpli-web.app.link/e/Rc5LeHKnwUb
 ![Simplilearn Certaficate Introduction SQL](https://github.com/user-attachments/assets/a5d4ada2-1326-439e-863b-92bcfcf8e6fb)
