@@ -38,6 +38,9 @@ https://www.datacamp.com/statement-of-accomplishment/course/776d39e89cf8f23f7b9d
 SQL with 365datascience
 https://learn.365datascience.com/c/c895a65555/
 ![CC-F9AE9695F4](https://github.com/user-attachments/assets/79c93aae-0cbf-4e2b-9fa9-9be84d64e54e)
+Python for Complete Beginners with Udemy
+http://ude.my/UC-7ab7cdcd-fa0b-4ad7-a79c-63ed5aa40742
+![Certaficate Python for complete Beginners](https://github.com/user-attachments/assets/73d1e4d2-270e-44cd-8e25-73a4c8ab4ed8)
 Introduction to Python with DataCamp
 https://www.datacamp.com/statement-of-accomplishment/course/9e950c23ba0c2674ebcdecc770f5dcd2e567f593?raw=1
 ![certificate Introduction to Python](https://github.com/user-attachments/assets/211eedb9-c0e0-4f68-acb6-a307aa864a25)
