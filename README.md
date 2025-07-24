@@ -44,6 +44,9 @@ http://ude.my/UC-7ab7cdcd-fa0b-4ad7-a79c-63ed5aa40742
 Introduction to Python with DataCamp
 https://www.datacamp.com/statement-of-accomplishment/course/9e950c23ba0c2674ebcdecc770f5dcd2e567f593?raw=1
 ![certificate Introduction to Python](https://github.com/user-attachments/assets/211eedb9-c0e0-4f68-acb6-a307aa864a25)
+Intermediate Python with DataCamp
+https://www.datacamp.com/statement-of-accomplishment/course/9513a9d916089cf62861f4a2a9de38277cc433d7?raw=1
+![certificate Intermediate Python](https://github.com/user-attachments/assets/082799d7-c418-4066-9a02-409ed208fe70)
 Introduction to Python for Developers with DataCamp
 https://www.datacamp.com/statement-of-accomplishment/course/ff9341da46b14636cd977a2105c7e9a16907935f?raw=1
 ![certificate Introduction to Python for Developers](https://github.com/user-attachments/assets/d2ee48e3-9d18-4221-a3b8-2475a70e8c71)
