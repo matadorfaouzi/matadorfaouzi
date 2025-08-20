@@ -1,4 +1,4 @@
-![dvfxvxf](https://github.com/user-attachments/assets/c0cc421c-a152-48ce-9a81-e9185fc49768)
+<img width="500" height="500" alt="Data Science" src="https://github.com/user-attachments/assets/a72aa1a9-8995-4a56-9a6f-d14b91dc2b92" />
 
 - 👋 Hi, I’m @matadorfaouzi (Toujani Faouzi)
 - 👀 I’m interested in Data Science
