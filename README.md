@@ -44,6 +44,9 @@ https://www.datacamp.com/statement-of-accomplishment/course/fc61583309bbca10258e
 Python for Complete Beginners with Udemy
 http://ude.my/UC-7ab7cdcd-fa0b-4ad7-a79c-63ed5aa40742
 ![Certaficate Python for complete Beginners](https://github.com/user-attachments/assets/73d1e4d2-270e-44cd-8e25-73a4c8ab4ed8)
+Basics of SQL Statements & Indexes with uniathena
+https://docs.uniathena.com/prod/course/certificate/882_1755544149_certificate.jpg
+![Faouzi_CR1260_certificate](https://github.com/user-attachments/assets/7ed053d6-2951-4088-b3fc-5d2636185c34)
 Introduction to Python with DataCamp
 https://www.datacamp.com/statement-of-accomplishment/course/9e950c23ba0c2674ebcdecc770f5dcd2e567f593?raw=1
 ![certificate Introduction to Python](https://github.com/user-attachments/assets/211eedb9-c0e0-4f68-acb6-a307aa864a25)
