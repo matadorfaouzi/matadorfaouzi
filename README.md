@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="Data Science" src="https://github.com/user-attachments/assets/a72aa1a9-8995-4a56-9a6f-d14b91dc2b92" />
+<img width="200" height="200" alt="Data Science" src="https://github.com/user-attachments/assets/a72aa1a9-8995-4a56-9a6f-d14b91dc2b92" />
 
 - 👋 Hi, I’m @matadorfaouzi (Toujani Faouzi)
 - 👀 I’m interested in Data Science
@@ -17,6 +17,9 @@ https://diploma.gomycode.app/?id=31737451600218954
 Key Leadership Skills to Set Data Analytics Professionals Apart
 https://certifications.thedataanalytics.academy/c/626d2a9d3dc749839a617ca7ec6a5401
 ![certaficate analytique](https://github.com/user-attachments/assets/a4116f07-c2af-4b4d-96ea-7333d86b19a2)
+Oracle SQL Databases Specialization Certificate with corsera LearnQuest
+https://www.coursera.org/account/accomplishments/specialization/BGOJ973F8XOL
+<img width="1650" height="1275" alt="Coursera BGOJ973F8XOL" src="https://github.com/user-attachments/assets/f2f4c959-11c2-4c10-8598-74440504ca94" />
 Introduction to SQL with simplilearn
 https://simpli-web.app.link/e/Rc5LeHKnwUb
 ![Simplilearn Certaficate Introduction SQL](https://github.com/user-attachments/assets/a5d4ada2-1326-439e-863b-92bcfcf8e6fb)
