@@ -38,6 +38,9 @@ https://www.datacamp.com/statement-of-accomplishment/course/4be0c41a9d678a407d1c
 Introduction to Oracle SQL with DataCamp
 https://www.datacamp.com/statement-of-accomplishment/course/776d39e89cf8f23f7b9db58608c26b1efa297d46?raw=1
 ![certificate Introduction to Oracle SQL](https://github.com/user-attachments/assets/c4fde3ec-1be4-4bee-84b9-8f525a4286f9)
+Functions for Manipulating Data in SQL Server
+https://www.datacamp.com/statement-of-accomplishment/course/d0c4315b68ca0446a190e3c96b01c6101d502b27?raw=1
+<img width="1875" height="1082" alt="certificate Functions for Manipulating Data in SQL Data Camp" src="https://github.com/user-attachments/assets/d388a722-a837-4c83-ab00-ab0526eb5698" />
 SQL with 365datascience
 https://learn.365datascience.com/c/c895a65555/
 ![CC-F9AE9695F4](https://github.com/user-attachments/assets/79c93aae-0cbf-4e2b-9fa9-9be84d64e54e)
